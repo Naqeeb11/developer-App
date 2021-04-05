@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://Naqeeb:Naqeeb@devconnector.ptzpl.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken",
+    "githubClientId": "393db9accdce24bea87b",
+    "githubSecret": "8d7f2306e0a887885cb3a993d0760dc34d1f940a"
+}

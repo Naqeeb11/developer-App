@@ -62,4 +62,4 @@ ProfileTop.propTypes = {
     profile: PropTypes.object.isRequired
 }
 
-export default ProfileTop
+export default ProfileTop;
